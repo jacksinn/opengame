@@ -3,8 +3,11 @@ Licensed under the GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 The license is included with the distribution of this software
 
-To install this software on your server, create a database and import from the sql dump file
+To install this software on your server, create a database and import from the sql dump file into your db and drop the files to your site root.
 
+Update the settings.php file to reflect where you are keeping the core code and what your db connection string is.
+
+Currently all users have the same role and you can just create new users via the interface or in the db.
 REQUIREMENTS:
 PHP5
 MySQL
