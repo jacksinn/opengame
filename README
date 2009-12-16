@@ -1,0 +1,16 @@
+Copyright 2009 Steven C Jackson
+Licensed under the GNU GPLv3 http://www.gnu.org/licenses/gpl.html
+
+The license is included with the distribution of this software
+
+To install this software on your server, create a database and import from the sql dump file
+
+REQUIREMENTS:
+PHP5
+MySQL
+
+NOTE: The contents of /fpss have been removed to protect the copyright of the original FPSS authors.
+You may purchase a license from http://www.frontpageslideshow.net/
+
+I will be replacing FPSS with a FLOSS compliant slider in the near future
+
