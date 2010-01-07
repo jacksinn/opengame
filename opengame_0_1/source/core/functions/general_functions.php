@@ -1,4 +1,4 @@
-<?
+<?php
 function cleanInput($dirty){
 	addslashes($dirty);
 	$blacklist = array(
